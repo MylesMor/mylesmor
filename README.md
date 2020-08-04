@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Myles 👋
+
+I'm a Computer Science student studying at university. 🏫
+
+In my spare time, I enjoy tinkering with IoT devices, and connecting them in interesting ways:
+- 💡 Smart lights (LIFX/Nanoleaf)
+- 🔉 Smart speakers (Sonos)
+- 
 
 <!--
 **MylesMor/mylesmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
