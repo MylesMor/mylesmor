@@ -1,4 +1,4 @@
-![Profile banner](https://github.com/MylesMor/mylesmor/blob/master/banner.png?raw=true)
+![Profile banner](https://github.com/MylesMor/mylesmor/blob/master/banner.jpg?raw=true)
 
 I'm a Computer Science student studying at university. 🏫
 
