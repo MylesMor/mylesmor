@@ -1,11 +1,16 @@
-### Hi, I'm Myles 👋
+![Profile banner](https://github.com/MylesMor/mylesmor/blob/master/banner.jpg?raw=true)
 
 I'm a Computer Science student studying at university. 🏫
 
-In my spare time, I enjoy tinkering with IoT devices, and connecting them in interesting ways:
-- 💡 Smart lights (LIFX/Nanoleaf)
+In my down time, I enjoy tinkering with IoT devices, and connecting them in interesting ways:
+- 💡 Smart lights (LIFX/[Nanoleaf](https://github.com/mylesmor/nanoleafapi))
 - 🔉 Smart speakers (Sonos)
-- 
+- 🚗 Car (eventually a Tesla 🤞)
+
+📫 How to reach me: 
+- 🐦 [Twitter](https://twitter.com/MylesMor_)
+- 📚 [LinkedIn](https://www.linkedin.com/in/myles-m-115032153/)
+- 🎮 Discord - MylesMor#7305
 
 <!--
 **MylesMor/mylesmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
