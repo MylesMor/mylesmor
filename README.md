@@ -1,6 +1,6 @@
 ![Profile banner](https://github.com/MylesMor/mylesmor/blob/master/banner.png?raw=true)
 
-I'm a Computer Science student studying at university. 🏫
+I'm a Computer Science & Cybersecurity student studying at university. 🏫
 
 In my down time, I enjoy tinkering with IoT devices, and connecting them in interesting ways:
 - 💡 Smart lights (LIFX/[Nanoleaf](https://github.com/mylesmor/nanoleafapi))
