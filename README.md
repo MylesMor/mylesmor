@@ -12,6 +12,8 @@ In my down time, I enjoy tinkering with IoT devices, and connecting them in inte
 - 📚 [LinkedIn](https://www.linkedin.com/in/myles-m-115032153/)
 - 🎮 Discord - MylesMor#7305
 
+![MylesMor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MylesMor&show_icons=true&theme=radical)
+
 <!--
 **MylesMor/mylesmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
