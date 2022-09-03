@@ -12,7 +12,8 @@ In my down time, I enjoy tinkering with IoT devices, and connecting them in inte
 - 📚 [LinkedIn](https://www.linkedin.com/in/myles-m-115032153/)
 - 🎮 Discord - MylesMor#7305
 
-![](https://komarev.com/ghpvc/MylesMor&color=green)
+![](https://komarev.com/ghpvc/?username=MylesMor&color=green)
+
 ![MylesMor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MylesMor&show_icons=true&theme=radical)
 
 <!--
